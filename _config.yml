@@ -9,8 +9,8 @@ appstore_link                             : https://marketplace.atlassian.com/ve
 presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/upsmith-small.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_icon_large                                  : assets/upsmith-full.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/upsmith-square.svg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon_large                                  : assets/upsmith-horizontal.svg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : UpSmith                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Elevate your productivity with our modern and quality applications for the Atlassian ecosystem
@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Zendesk Sell for JSM
     description                           : Integrate Zendesk Sell and JSM to personalize customer experience
-    icon_path                 : assets/upsmith-zendesk2.png
+    icon_path                 : assets/upsmith-zendesk2b.png
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

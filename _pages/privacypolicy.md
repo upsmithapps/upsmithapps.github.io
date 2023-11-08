@@ -16,7 +16,7 @@ Nov 8, 2023
 In this Privacy Policy *we*, *us* or *our* means *UpSmith Sdn. Bhd.*
 When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and give you the opportunity to control it.
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can manage, and delete your information.
-We build services that help companies to work more efficiently and save time in their day-to-day processes. Our services include Atlassian apps like Zendesk Sell for Jira that are embedded into Atlassian products.
+We build services that help companies to work more efficiently and save time in their day-to-day processes. Our services include Atlassian apps like Zendesk Sell for JSM that are embedded into Atlassian products.
 If you have any questions about this Privacy Policy, you can [contact us](mailto:support@upsmith.app).
 
 

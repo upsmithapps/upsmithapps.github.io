@@ -38,7 +38,11 @@ features                                  :
 
   - title                                 : Zendesk Sell for JSM
     description                           : Integrate Zendesk Sell and JSM to personalize customer experience
-    icon_path                 : assets/upsmith-zendesk2b.png
+    icon_path                             : assets/upsmith-zendesk2b.png
+
+  - title                                 : Freshsales for JSM
+    description                           : Integrate Freshsales and JSM to personalize customer experience
+    icon_path                             : assets/upsmith-freshsales.png
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

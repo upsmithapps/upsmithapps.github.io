@@ -10,7 +10,7 @@ presskit_download_link                    : https://emilbaehr.com               
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/upsmith-square.svg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_icon_large                                  : assets/upsmith-horizontal.svg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon_large                            : assets/upsmith-horizontal.svg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : UpSmith                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Elevate your productivity with our modern and quality applications for the Atlassian ecosystem
@@ -36,9 +36,9 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Zendesk Sell for JSM
-    description                           : Integrate Zendesk Sell and JSM to personalize customer experience
-    icon_path                             : assets/upsmith-zendesk2b.png
+  - title                                 : Salesforce for Confluence
+    description                           : Integrate Salesforce data into Confluence pages to streamline account plan & collaboration
+    icon_path                             : assets/upsmith-salesforce.png
 
   - title                                 : Freshsales for JSM
     description                           : Integrate Freshsales and JSM to personalize customer experience

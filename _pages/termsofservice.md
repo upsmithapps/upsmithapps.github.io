@@ -93,7 +93,7 @@ You agree to indemnify and hold the Company and its parents, subsidiaries, affil
 
 # Support Services
 
-We shall provide you with support services, which shall include but not be limited to bug fixes and patches for the duration of your License including any applicable renewal periods thereof. You are eligible as long as your subscription is active. Support for Applications consists of online documentation and support via email. Support is available in English. Support and maintenance do not include any custom software development or implementation of custom features for Applications or any assistance with the host application or any other third-party services or products, their updating, maintenance or support. Our business hours are from 10h00am to 18h00 pm EET, Monday to Friday.
+We shall provide you with support services, which shall include but not be limited to bug fixes and patches for the duration of your License including any applicable renewal periods thereof. You are eligible as long as your subscription is active. Support for Applications consists of online documentation and support via email. Support is available in English. Support and maintenance do not include any custom software development or implementation of custom features for Applications or any assistance with the host application or any other third-party services or products, their updating, maintenance or support.
 
 # Restrictions
 

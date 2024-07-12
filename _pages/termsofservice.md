@@ -115,7 +115,11 @@ The Software and all copies thereof are protected by copyright and other intelle
 
 # Privacy Policy
 
-The Company’s collection, use, disclosure and handling of your information is done in accordance with its Privacy Policy, that can be found at [https://upsmith.app/privacypolicy/](https://upsmith.app/privacypolicy/).
+To review the privacy policy that apply to visitors of our websites and the use of our Applications, please see our [Privacy Policy](https://upsmith.app/privacypolicy/).
+
+# Cookie Policy
+
+To review the cookie policy that apply to visitors of our websites and the use of our Applications, please see our [Cookie Policy](https://upsmith.app/cookiepolicy/).
 
 # No Warranty
 

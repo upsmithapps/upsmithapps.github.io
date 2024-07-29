@@ -10,7 +10,7 @@ include_in_header: false
 Jul 13, 2024
 
 **Last updated**  
-Jul 13, 2024
+Jul 29, 2024
 
 This cookie policy provides you with information about the cookies we use and the purposes for using them in our websites and software applications.
 
@@ -28,3 +28,11 @@ Cookies on our sites are generally divided into the following categories:
 - Functional and Performance Cookies. These cookies enable the website to provide enhanced functionality and personalization or allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous.  These cookies may be set by us or by third party providers whose services we have added to our pages.  If you do not allow these cookies then some or all of these services may not function properly. Additionally, if you do not allow these cookies we may not be able to monitor the performance of our website.
 
 **How to Control Cookies**:  You can review your Internet browser settings, typically under the sections "Help" or "Internet Options," to exercise choices you have for certain Cookies. If you choose to block all cookies, our services will not function as intended. If you have blocked all cookies and wish to make full use of the features and services we offer, we recommend enabling at least first-party cookies. Rather than blocking all cookies, you can choose to block only third-party cookies.
+
+## Add-on Specific Cookie Policies
+
+### Notion Embedder for Monday
+
+**Cookie usage**: Notion Embedder for Monday does not embed any tracking cookies. However, please note that Notion, the platform our add-on integrates with, may embed tracking cookies depending on their settings.
+
+**Consent**: By inputting Notion URL in our add-on, you acknowledge and agree that Notion may embed tracking cookies. We recommend reviewing Notion's cookie policy to understand how they handle cookies and what your options are regarding their use.

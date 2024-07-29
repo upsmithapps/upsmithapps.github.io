@@ -31,8 +31,8 @@ Cookies on our sites are generally divided into the following categories:
 
 ## Add-on Specific Cookie Policies
 
-### Notion Embedder for Monday
+### Notion Embedder for monday.com
 
-**Cookie usage**: Notion Embedder for Monday does not embed any tracking cookies. However, please note that Notion, the platform our add-on integrates with, may embed tracking cookies depending on their settings.
+**Cookie usage**: Notion Embedder for monday.com does not embed any tracking cookies. However, please note that Notion, the platform our add-on integrates with, may embed tracking cookies depending on their settings.
 
 **Consent**: By inputting Notion URL in our add-on, you acknowledge and agree that Notion may embed tracking cookies. We recommend reviewing Notion's cookie policy to understand how they handle cookies and what your options are regarding their use.

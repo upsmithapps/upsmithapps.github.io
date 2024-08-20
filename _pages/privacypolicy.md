@@ -102,6 +102,6 @@ We regularly review this Privacy Policy and make sure that we process your infor
 We maintain servers in the United States of America and your information may be processed on servers located outside of the country where you are located. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy.
 ## About this policy
 ### When this policy applies
-This Privacy Policy applies to all of the services offered by ToolsPlus Sdn. Bhd., including services offered on third-party sites, such as Atlassian. This Privacy Policy doesn’t apply to services that have separate privacy policies that do not incorporate this Privacy Policy.
+This Privacy Policy applies to all of the services offered by UpSmith Sdn. Bhd., including services offered on third-party sites, such as Atlassian. This Privacy Policy doesn’t apply to services that have separate privacy policies that do not incorporate this Privacy Policy.
 ### Changes to this policy
 We may, at any time and at our discretion, vary this Privacy Policy. We always indicate the date the last changes were published. We will notify you if we amend this Privacy Policy, by contacting you through the contact details you have provided to us. Any amended Privacy Policy is effective once we notify you of the change.

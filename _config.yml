@@ -4,6 +4,7 @@ page_title                                : UpSmith - Atlassian & monday.com App
 # App Info
 appstore_link                             : https://marketplace.atlassian.com/vendors/1216742/apps                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 app_icon                                  : assets/upsmith-square.svg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon_dark                             : assets/upsmith-square-dark.svg
 app_icon_large                            : assets/upsmith-horizontal.svg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : UpSmith                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Elevate your productivity with our modern and quality applications for the Atlassian ecosystem

@@ -5,4 +5,24 @@
 			<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
 		{% endfor %}
 	</div>
+
+	<div id="consent-banner" class="consent-banner">
+		<p>We use cookies to improve your experience on our site. By continuing to use our site, you accept our use of cookies. <a href="/privacypolicy">Learn more</a>.</p>
+		<button id="accept-button">Accept</button>
+	</div>
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			var consentBanner = document.getElementById('consent-banner');
+			var acceptButton = document.getElementById('accept-btn');
+
+			if (!localStorage.getItem('cookieConsent')) {
+				consentBanner.style.display = 'block';
+			}
+
+			acceptButton.onclick = function () {
+				localStorage.setItem('cookieConsent', 'true');
+				consentBanner.style.display = 'none';
+			};
+		});
+	</script>
 </footer>

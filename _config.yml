@@ -18,10 +18,6 @@ features                                  :
     description                           : Integrate Salesforce data into Confluence pages to streamline account plan & collaboration
     icon_path                             : assets/upsmith-salesforce.png
 
-  - title                                 : Freshsales for JSM
-    description                           : Integrate Freshsales and JSM to personalize customer experience
-    icon_path                             : assets/upsmith-freshsales.png
-
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.

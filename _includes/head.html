@@ -38,6 +38,11 @@
 			font-size: 14px;
 			display: none;
 		}
+		#consent-banner .consent-body {
+			display: flex;
+			align-items: center;
+			justify-content: space-around;
+		}
 		#consent-banner button {
 			margin-left: 10px;
 			padding: 10px 20px;
@@ -45,9 +50,17 @@
 			color: #fff;
 			border: none;
 			cursor: pointer;
+			border-radius: 5px;
+			transition: background-color 0.3s ease;
 		}
 		#consent-banner button:hover {
 			background-color: #13418f;
+		}
+		#consent-banner a {
+			color: #77a1f2;
+		}
+		#consent-banner a:hover {
+			color: #a5c1f7;
 		}
 	</style>
 </head>

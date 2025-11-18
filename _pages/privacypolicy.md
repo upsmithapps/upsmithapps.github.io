@@ -88,6 +88,7 @@ We use the following subprocessors:
 | Third Party | Purpose |
 | :--- | :--- |
 | Atlassian Pty Ltd | Issue management |
+| Atlassian Pty Ltd | App hosting (Forge) |
 | Amazon Web Services, Inc. | Data hosting |
 
 By providing us with personal information, you consent to the disclosure of your personal information to third parties and, if you are a European Union (EU) citizen, to third parties that reside outside the EU.
